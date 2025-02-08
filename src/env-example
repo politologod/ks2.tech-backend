@@ -1,0 +1,4 @@
+FRONTEND_URL=http://localhost:5173
+JWT_SECRET=ks2tech_secret
+DATABASE_URL=postgresql://neondb_owner:npg_YAgbX6v9uHhe@ep-royal-hill-a56ppal8-pooler.us-east-2.aws.neon.tech/neondb?sslmode=require
+
